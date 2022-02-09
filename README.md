@@ -29,4 +29,7 @@ The origimnal inages are stored in three different folders
 ### Augmented Images
 The raw images are augmented and saved in a different folder. 
 
+![result](https://user-images.githubusercontent.com/63404097/153239658-a95b3920-9399-43cf-89d2-4f0aeeb498d9.png)
+
+
 
