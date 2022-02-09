@@ -20,8 +20,6 @@ A range of techniques are supported, as well as pixel scaling methods. Specifica
 Image zoom via the zoom_range argument.
 
 
-Result of data augmentation
-![results](https://user-images.githubusercontent.com/61402731/153237632-37c1fef3-f6d0-4302-a0db-0b9ad78fc119.PNG)
 ### Original Image
 The origimnal inages are stored in three different folders
 
