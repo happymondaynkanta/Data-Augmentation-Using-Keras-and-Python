@@ -25,6 +25,9 @@ Result of data augmentation
 ### Original Image
 The origimnal inages are stored in three different folders
 
+![data_folder](https://user-images.githubusercontent.com/63404097/153239411-a6da7be1-c4e6-42ff-abe7-11e1fa154c19.png)
+
+
 ### Augmented Images
 The raw images are augmented and saved in a different folder. 
 
