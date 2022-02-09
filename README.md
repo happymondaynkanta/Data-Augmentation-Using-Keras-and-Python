@@ -7,6 +7,7 @@ the code in this repository performs augmentation by reading the dataset in thre
 ## Data Augmentation Outcome
 This simple illustration of data augmentation using Keras library showcases the visual representation of data augmentation in practical. 
 
+## Different Operations of Data Augmentation
 ### Original Image
 The origimnal inages are stored in three different folders
 
